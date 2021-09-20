@@ -11,21 +11,21 @@
 	>
 
 <channel>
-	<title>Products &#8211; Linh Mon Clothing &amp; Shoes</title>
+	<title>Products</title>
 	<atom:link href="https://linhmon999.github.io/shop_with_us/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>https://linhmon999.github.io/shop_with_us/</link>
-	<description>Thương hiệu Linh Mon</description>
-	<lastBuildDate>Tue, 14 Sep 2021 21:18:13 +0000</lastBuildDate>
-	<language>en-US</language>
+	<description></description>
+	<lastBuildDate>Mon, 20 Sep 2021 06:25:08 +0000</lastBuildDate>
+	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://linhmon999.github.io/shop_with_us/wp-content/uploads/2021/08/cropped-cropped-cropped-Capture-32x32.png</url>
-	<title>Products &#8211; Linh Mon Clothing &amp; Shoes</title>
+	<title>Products</title>
 	<link>https://linhmon999.github.io/shop_with_us/</link>
 	<width>32</width>
 	<height>32</height>
@@ -181,5 +181,5 @@ Vàng tây (vàng vàng), Vàng trắng, Vàng hồng có giá ngang nhau.Giá
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2021-09-15 08:57:19 by W3 Total Cache
+Served from: localhost @ 2021-09-20 16:38:16 by W3 Total Cache
 -->
