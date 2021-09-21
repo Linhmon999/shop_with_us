@@ -15,7 +15,7 @@ var ctPublicFunctions = {"_ajax_nonce":"0eb435d3ca","_rest_nonce":"53fea62304","
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-content/plugins/cleantalk-spam-protect/js/apbct-public--functions.min.js?ver=5.160.3" id="ct_public_functions-js"></script>
 <script type="text/javascript" id="ct_public-js-extra">
 /*  */
-var ctPublic = {"pixel__setting":"3","pixel__enabled":"1","pixel__url":"https:\/\/moderate1.cleantalk.org\/pixel\/11edd123fdd93606adab5e3dedb50bf7.gif","data__email_check_before_post":"1"};
+var ctPublic = {"pixel__setting":"3","pixel__enabled":"1","pixel__url":"DESKTOP-MHVPH8T\/pixel\/585d3b25d155f973ae212928c9eecbdf.gif","data__email_check_before_post":"1"};
 /*  */
 </script>
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js?ver=5.160.3" id="ct_public-js"></script>
@@ -25,6 +25,7 @@ var ctPublic = {"pixel__setting":"3","pixel__enabled":"1","pixel__url":"https:\/
 <link rel="stylesheet" id="forms-css" href="https://linhmon999.github.io/shop_with_us/wp-admin/css/forms.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://linhmon999.github.io/shop_with_us/wp-admin/css/l10n.min.css?ver=5.8.1" type="text/css" media="all">
 <link rel="stylesheet" id="login-css" href="https://linhmon999.github.io/shop_with_us/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="my-admin-theme-css" href="https://linhmon999.github.io/shop_with_us/wp-content/plugins/Simple-Contact/plugin-admin.css?ver=5.8.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://linhmon999.github.io/shop_with_us/wp-content/uploads/2021/08/cropped-cropped-cropped-Capture-32x32.png" sizes="32x32">
@@ -126,5 +127,5 @@ var userProfileL10n = {"user_id":"0","nonce":"782067b688"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2021-09-21 10:43:00 by W3 Total Cache
+Served from: localhost @ 2021-09-21 18:13:41 by W3 Total Cache
 --></html>
