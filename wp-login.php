@@ -9,13 +9,13 @@
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script type="text/javascript" id="ct_public_functions-js-extra">
 /*  */
-var ctPublicFunctions = {"_ajax_nonce":"9deb421aac","_rest_nonce":"fd7a05655b","_ajax_url":"\/wp-admin\/admin-ajax.php","_rest_url":"https:\/\/linhmon999.github.io\/shop_with_us\/wp-json\/","_apbct_ajax_url":"https:\/\/linhmon999.github.io\/shop_with_us\/wp-content\/plugins\/cleantalk-spam-protect\/lib\/Cleantalk\/ApbctWP\/Ajax.php","data__set_cookies":"1","data__set_cookies__alt_sessions_type":"0"};
+var ctPublicFunctions = {"_ajax_nonce":"0eb435d3ca","_rest_nonce":"53fea62304","_ajax_url":"\/wp-admin\/admin-ajax.php","_rest_url":"https:\/\/linhmon999.github.io\/shop_with_us\/wp-json\/","_apbct_ajax_url":"https:\/\/linhmon999.github.io\/shop_with_us\/wp-content\/plugins\/cleantalk-spam-protect\/lib\/Cleantalk\/ApbctWP\/Ajax.php","data__set_cookies":"1","data__set_cookies__alt_sessions_type":"0"};
 /*  */
 </script>
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-content/plugins/cleantalk-spam-protect/js/apbct-public--functions.min.js?ver=5.160.3" id="ct_public_functions-js"></script>
 <script type="text/javascript" id="ct_public-js-extra">
 /*  */
-var ctPublic = {"pixel__setting":"3","pixel__enabled":"1","pixel__url":"https:\/\/moderate1.cleantalk.org\/pixel\/150719f0dfd0ba7b60f69e68e2cb7596.gif","data__email_check_before_post":"1"};
+var ctPublic = {"pixel__setting":"3","pixel__enabled":"1","pixel__url":"https:\/\/moderate1.cleantalk.org\/pixel\/11edd123fdd93606adab5e3dedb50bf7.gif","data__email_check_before_post":"1"};
 /*  */
 </script>
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-content/plugins/cleantalk-spam-protect/js/apbct-public.min.js?ver=5.160.3" id="ct_public-js"></script>
@@ -107,7 +107,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://linhmon999.github.io/shop_with_us/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"e6eeaf1159"};
+var userProfileL10n = {"user_id":"0","nonce":"782067b688"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -126,5 +126,5 @@ var userProfileL10n = {"user_id":"0","nonce":"e6eeaf1159"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2021-09-20 16:47:55 by W3 Total Cache
+Served from: localhost @ 2021-09-21 10:43:00 by W3 Total Cache
 --></html>
